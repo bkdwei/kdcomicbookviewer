@@ -21,4 +21,4 @@
 当前页/总页数,像素(放大比例),文件名
 
 ## 截图
-![kdcomicbookviewer](https://github.com/bkdwei/kdcomicbookviewer/blob/master/doc/kdcomicbookviewer_screenshot.jpg "截图")
+![kdcomicbookviewer](https://github.com/bkdwei/kdcomicbookviewer/blob/master/doc/kdcomicbookviewer_screentshot.jpg "截图")
